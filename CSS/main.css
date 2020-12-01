@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+  background:orange;}
+
+
+  body{ 
+      background-image: url('homepage-background.jpg');
+      background-size: cover;
+      background-position: center;
+      position: relative;
+
+  }
+
